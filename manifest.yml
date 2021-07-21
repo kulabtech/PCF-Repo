@@ -1,6 +1,6 @@
 ---
 applications:
-- name: testapp
+- name: testapp1
   instances: 1
   memory: 1500M
   buildpack: java_buildpack
