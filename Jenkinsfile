@@ -31,4 +31,4 @@ pipeline {
 
 }
 
-//telkblkktkll;llk lkl oivoimokvmkmld l l 
+//telkblkktkll;llk lkl oivoimok
