@@ -31,4 +31,4 @@ pipeline {
 
 }
 //gptgp
-//telkblkktkll;llk lkl oivoimoklmblkrl,pl, pl,pp,po
+//telkblkktkll;llk lkl oivoimoklmblkrl,pl, pl,pp,pomlk
