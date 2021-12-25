@@ -31,4 +31,4 @@ pipeline {
 
 }
 //gptgp
-//telkblkktkll;llk lkl oivo
+//telkblkktkll;l
