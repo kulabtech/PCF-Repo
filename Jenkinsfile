@@ -30,5 +30,5 @@ pipeline {
     }
 
 }
-//gptgp kmcl,dlflldl; flg flfl
-//telkbl
+//gptgp
+//telkbl l,';,'p;
