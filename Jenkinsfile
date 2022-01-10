@@ -8,7 +8,7 @@ pipeline {
             steps {
                 sh '''
                 git --prune=now
-                git remote prune https://github.com/kulabtech/PCF-Repo.git
+               // git remote prune https://github.com/kulabtech/PCF-Repo.git
                 git prune
                 '''
             }
