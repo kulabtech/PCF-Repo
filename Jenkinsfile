@@ -3,6 +3,16 @@ pipeline {
     agent any
 
     stages {
+        
+        stage ('removing unupdated refs') {
+            steps {
+                sh '''
+                git --prune=now
+                git remote prune https://github.com/kulabtech/PCF-Repo.git
+                git prune
+                '''
+            }
+        }
 
         stage ('Build') {
             steps {
